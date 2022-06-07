@@ -16,7 +16,9 @@
  
 # Sample of react application consuming the API
 
-![](https://github.com/funakoshiapi/-Web-API-ASP.NET-Core/blob/main/EndPoints.PNG](https://github.com/funakoshiapi/-Web-API-ASP.NET-Core/blob/main/mappingScreen%20(2).png)
+![](https://github.com/funakoshiapi/-Web-API-ASP.NET-Core/blob/main/EndPoints.PNG)
+
+![](https://github.com/funakoshiapi/-Web-API-ASP.NET-Core/blob/main/mappingScreen%20(2).png)
 
 ![](https://github.com/funakoshiapi/-Web-API-ASP.NET-Core/blob/main/apiTaxRateData.png)
 
