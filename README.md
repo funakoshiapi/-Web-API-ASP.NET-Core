@@ -22,7 +22,7 @@
 
 ![](https://github.com/funakoshiapi/-Web-API-ASP.NET-Core/blob/main/comparissonscreen.png)
 
-![](https://github.com/funakoshiapi/-Web-API-ASP.NET-Core/blob/main/comparisonScreen2.png)
+![](https://github.com/funakoshiapi/-Web-API-ASP.NET-Core/blob/main/comparisonScreen1.png)
 
 ![](https://github.com/funakoshiapi/-Web-API-ASP.NET-Core/blob/main/comparisonScreen2.png)
 
