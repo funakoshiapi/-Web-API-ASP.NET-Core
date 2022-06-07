@@ -16,16 +16,16 @@
  
 # Sample of react application consuming the API
 
-![](https://github.com/funakoshiapi/-Web-API-ASP.NET-Core/blob/main/EndPoints.PNG)
-
 ![](https://github.com/funakoshiapi/-Web-API-ASP.NET-Core/blob/main/mappingScreen%20(2).png)
 
 ![](https://github.com/funakoshiapi/-Web-API-ASP.NET-Core/blob/main/apiTaxRateData.png)
 
 ![](https://github.com/funakoshiapi/-Web-API-ASP.NET-Core/blob/main/comparissonscreen.png)
 
-![](https://github.com/funakoshiapi/-Web-API-ASP.NET-Core/blob/main/comparissonscreen1.png)
+![](https://github.com/funakoshiapi/-Web-API-ASP.NET-Core/blob/main/comparisonScreen2.png)
 
-![](https://github.com/funakoshiapi/-Web-API-ASP.NET-Core/blob/main/comparissonscreen2.png)
+![](https://github.com/funakoshiapi/-Web-API-ASP.NET-Core/blob/main/comparisonScreen2.png)
+
+
 
 
