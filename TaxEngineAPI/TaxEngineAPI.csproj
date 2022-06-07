@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>TaxEngineAPI</RootNamespace>
+    <UserSecretsId>9c6ca13a-ebdc-4ab1-b084-ec5124190a24</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GoogleMaps.LocationServices" Version="1.2.0.5" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.22" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.14">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.OpenApi" Version="1.2.3" />
+    <PackageReference Include="Serilog.AspNetCore" Version="5.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TaxEngineAPICommon\TaxEngineAPICommon.csproj" />
+    <ProjectReference Include="..\TaxEngineDataRepository\TaxEngineDataRepository.csproj" />
+    <ProjectReference Include="..\TaxEngineMongoDbRepository\TaxEngineMongoDbRepository.csproj" />
+    <ProjectReference Include="..\MappingCommon\MappingCommon.csproj" />
+    <ProjectReference Include="..\ShapeTaxRegionAssociationDbRepository\TaxMappingRepository.csproj" />
+ 
+  </ItemGroup>
+
+
+</Project>
